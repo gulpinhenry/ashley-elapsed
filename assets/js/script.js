@@ -6,7 +6,7 @@ function update()
 {
     setInterval(function(){
 
-        var d = moment().diff(moment("08/21/2021", "MM/DD/YYYY"), 'days');
+        var d = moment().diff(moment("08/22/2021", "MM/DD/YYYY"), 'days');
         var h = moment();
         var m = moment();
         var s = moment();
